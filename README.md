@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravpatro26&label=Profile%20views&color=0e75b6&style=flat" alt="souravpatro26" /> </p>
 
+- 🌱 A Data Enthusiast**
+
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
 - 💬 Ask me about **Data Analysis, Power BI, SQL**
